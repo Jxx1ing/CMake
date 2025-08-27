@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app2.dir/sort.cpp.o -o ../../bin/app2   -L/home/u64/cpp_CMake/18_NestedCMake_sharedLink/lib  -Wl,-rpath,/home/u64/cpp_CMake/18_NestedCMake_sharedLink/lib ../../lib/libsort.a ../../lib/libcalc.so 

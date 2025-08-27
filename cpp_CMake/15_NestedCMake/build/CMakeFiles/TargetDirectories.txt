@@ -1,0 +1,14 @@
+/home/u64/cpp_CMake/15_NestedCMake/build/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/CMakeFiles/rebuild_cache.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/calc/CMakeFiles/calc.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/calc/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/calc/CMakeFiles/rebuild_cache.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/sort/CMakeFiles/sort.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/sort/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/sort/CMakeFiles/rebuild_cache.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/test1/CMakeFiles/app1.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/test1/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/test1/CMakeFiles/rebuild_cache.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/test2/CMakeFiles/app2.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/test2/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/15_NestedCMake/build/test2/CMakeFiles/rebuild_cache.dir

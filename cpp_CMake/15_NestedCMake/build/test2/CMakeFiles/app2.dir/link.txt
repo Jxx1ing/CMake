@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app2.dir/sort.cpp.o -o ../../bin/app2   -L/home/u64/cpp_CMake/15_NestedCMake/lib  -Wl,-rpath,/home/u64/cpp_CMake/15_NestedCMake/lib ../../lib/libsort.a 

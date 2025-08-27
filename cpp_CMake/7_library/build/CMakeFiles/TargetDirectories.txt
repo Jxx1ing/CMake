@@ -1,0 +1,3 @@
+/home/u64/cpp_CMake/7_library/build/CMakeFiles/calc.dir
+/home/u64/cpp_CMake/7_library/build/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/7_library/build/CMakeFiles/rebuild_cache.dir

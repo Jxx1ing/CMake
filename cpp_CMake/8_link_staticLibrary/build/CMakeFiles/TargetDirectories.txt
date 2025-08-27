@@ -1,0 +1,3 @@
+/home/u64/cpp_CMake/8_link_staticLibrary/build/CMakeFiles/app.dir
+/home/u64/cpp_CMake/8_link_staticLibrary/build/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/8_link_staticLibrary/build/CMakeFiles/rebuild_cache.dir

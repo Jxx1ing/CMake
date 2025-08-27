@@ -1,0 +1,11 @@
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/CMakeFiles/rebuild_cache.dir
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/calc/CMakeFiles/calc.dir
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/calc/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/calc/CMakeFiles/rebuild_cache.dir
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/sort/CMakeFiles/sort.dir
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/sort/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/sort/CMakeFiles/rebuild_cache.dir
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/test/CMakeFiles/app2.dir
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/test/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/18_NestedCMake_sharedLink/build/test/CMakeFiles/rebuild_cache.dir

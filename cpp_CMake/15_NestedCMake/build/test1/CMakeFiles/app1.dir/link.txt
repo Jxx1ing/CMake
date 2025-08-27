@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app1.dir/calc.cpp.o -o ../../bin/app1   -L/home/u64/cpp_CMake/15_NestedCMake/lib  -Wl,-rpath,/home/u64/cpp_CMake/15_NestedCMake/lib ../../lib/libcalc.a 

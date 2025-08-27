@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/main.cpp.o -o app   -L/home/u64/cpp_CMake/8_link_staticLibrary/lib  -Wl,-rpath,/home/u64/cpp_CMake/8_link_staticLibrary/lib -lcalc 

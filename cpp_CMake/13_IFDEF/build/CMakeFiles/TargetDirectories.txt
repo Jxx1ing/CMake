@@ -1,0 +1,3 @@
+/home/u64/cpp_CMake/13_IFDEF/build/CMakeFiles/app.dir
+/home/u64/cpp_CMake/13_IFDEF/build/CMakeFiles/edit_cache.dir
+/home/u64/cpp_CMake/13_IFDEF/build/CMakeFiles/rebuild_cache.dir

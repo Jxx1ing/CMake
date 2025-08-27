@@ -1,0 +1,21 @@
+cmake_minimum_required(VERSION 3.15)
+project(test)
+file(GLOB SRC ${CMAKE_CURRENT_SOURCE_DIR}/src/*.cpp)
+include_directories(${PROJECT_SOURCE_DIR}/include)
+set(LIBRARY_OUTPUT_PATH /home/u64/cpp_CMake/12_string/abcdefg)
+add_library(calc SHARED ${SRC})
+message("========== set拼接==========")
+# set 拼接
+set(tmp hello world)
+set(tmp1 ${tmp} ${SRC})
+# 打印字符串
+message(${tmp})
+message(${tmp1})
+# list 拼接
+message("========== list拼接==========")
+list(APPEND tmp "xxx1" "yyy2" ${SRC})
+message(${tmp})
+message("========== list移除main.cpp文件==========")
+message(${SRC})
+list(REMOVE_ITEM SRC ${PROJECT_SOURCE_DIR}/src/main.cpp)
+message(${SRC})
